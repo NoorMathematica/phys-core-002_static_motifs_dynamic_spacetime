@@ -2,6 +2,27 @@
 
 We present a computational framework for analyzing chaotic n-body systems that reframes recursive dependency not as a computational obstacle, but as a structural foundation. In contrast to globally simultaneous integration schemes, we introduce a serial traversal model in which each body is resolved in local relational sequence. This shift breaks the cycle of mutual dependency by embedding it in directed paths, yielding a probability gradient across configuration space rather than a single deterministic trajectory. The result is not a prediction of specific outcomes, but the emergence of dynamically coherent regions through recursive sampling. We demonstrate this approach on the three-body problem, drawing parallels to cellular automata and interference-driven systems, and show that path-wise resolution offers a stable, probabilistic mapping of otherwise intractable behavior.
 
+## Citation
+
+Please cite this work as: 
+
+```
+"Lina Noor - Noor Research Collective, "Static Motifs, Dynamic Spacetime: A Coherence-Driven Reformulation of Quantum Geometry",
+Noor Research Collective Archive, 2025.
+```
+
+Or use the BibTeX Citation:
+
+```
+@article{noor2025staticmotifs,
+  author = {Lina Noor - Noor Research Collective},
+  title = {Static Motifs, Dynamic Spacetime: A Coherence-Driven Reformulation of Quantum Geometry},
+  journal = {Noor Research Collective Archive},
+  year = {2025},
+  note = {https://raw.githubusercontent.com/NoorMathematica/phys-core-002_static_motifs_dynamic_spacetime/refs/heads/main/static_motifs_and_dynamic_spacetime.md},
+}
+```
+
 ---
 
 XREF of work and references avalible [here](https://raw.githubusercontent.com/NoorMathematica/noor_xref/refs/heads/main/noor_rfc_xref.json)  

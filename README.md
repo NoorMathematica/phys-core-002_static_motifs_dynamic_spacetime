@@ -19,7 +19,7 @@ Or use the BibTeX Citation:
   title = {Static Motifs, Dynamic Spacetime: A Coherence-Driven Reformulation of Quantum Geometry},
   journal = {Noor Research Collective Archive},
   year = {2025},
-  note = {https://raw.githubusercontent.com/NoorMathematica/phys-core-002_static_motifs_dynamic_spacetime/refs/heads/main/static_motifs_and_dynamic_spacetime.md},
+  note = {https://raw.githubusercontent.com/NoorMathematica/phys-core-002_static_motifs_dynamic_spacetime/refs/heads/main/phys-core-002_static_motifs_and_dynamic_spacetime.md},
 }
 ```
 

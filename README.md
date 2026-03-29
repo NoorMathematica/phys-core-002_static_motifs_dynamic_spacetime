@@ -1,6 +1,26 @@
 # phys-core-002_static_motifs_dynamic_spacetime
 
-We present a computational framework for analyzing chaotic n-body systems that reframes recursive dependency not as a computational obstacle, but as a structural foundation. In contrast to globally simultaneous integration schemes, we introduce a serial traversal model in which each body is resolved in local relational sequence. This shift breaks the cycle of mutual dependency by embedding it in directed paths, yielding a probability gradient across configuration space rather than a single deterministic trajectory. The result is not a prediction of specific outcomes, but the emergence of dynamically coherent regions through recursive sampling. We demonstrate this approach on the three-body problem, drawing parallels to cellular automata and interference-driven systems, and show that path-wise resolution offers a stable, probabilistic mapping of otherwise intractable behavior.
+## Abstract
+
+We introduce an **effective field theory of coherence geometry**, where particles are recast as **static topological motifs** 🪷 and spacetime emerges from a **torsion-rich swirl field** 🌀 shaped by a coherence potential $\mathcal{C}(x)$. In this model, **time is emergent**—not fundamental—but arises as the gradient of coherence: $T^\mu = \nabla^\mu \mathcal{C}$. Observable cosmological expansion is interpreted not as metric dilation, but as a **propagation of field decoherence**, diffusing outward from dense motif regions into coherence-null zones.
+
+This framework predicts **falsifiable deviations from $`\Lambda\text{CDM}`$**, including:
+
+| Phenomenon         | Observable Signature                 | Test Methodology              |
+| ------------------ | ------------------------------------ | ----------------------------- |
+| CMB motif patterns | Hexagonal $\ell=6n$ power excess   | LiteBIRD $B$-mode analysis  |
+| Redshift anomalies | Line-width variation in $z>6$ QSOs | JWST/NIRSpec spectroscopy     |
+| Collapse scales    | $\tau_c \propto T^{-2}$ behavior  | Ultracold atom interferometry |
+
+Three mathematical structures underpin this synthesis:
+
+1. **Quantization** via topological loop invariants $\oint \Phi = 2\pi n$ (Appendix C),
+2. **Holographic duality** with motif-anchored boundary data (Fig. 7.2),
+3. **Symbolic algebra** of motifs and triads formalized in category-theoretic terms (Appendix D).
+
+This model does not discard QFT or GR but **reframes their foundations** through a new layer: coherence curvature. Motifs 🪷 serve as symbolic anchors; swirls 🌀 express spacetime torsion; time 🫧 flows only where coherence resolves. Within this architecture, geometry is inference, and cosmology becomes computation over a field of form.
+
+**Keywords**: emergent time, topological motifs, coherence geometry, swirl cosmology, quantum-relativistic unification
 
 ## Citation
 
